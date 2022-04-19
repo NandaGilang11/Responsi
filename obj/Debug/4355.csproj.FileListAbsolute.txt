@@ -1,0 +1,6 @@
+D:\Kuliah semester 2\Pemrograman\4355\4355\bin\Debug\4355.exe.config
+D:\Kuliah semester 2\Pemrograman\4355\4355\obj\Debug\4355.csprojResolveAssemblyReference.cache
+D:\Kuliah semester 2\Pemrograman\4355\4355\bin\Debug\4355.exe
+D:\Kuliah semester 2\Pemrograman\4355\4355\bin\Debug\4355.pdb
+D:\Kuliah semester 2\Pemrograman\4355\4355\obj\Debug\4355.exe
+D:\Kuliah semester 2\Pemrograman\4355\4355\obj\Debug\4355.pdb
